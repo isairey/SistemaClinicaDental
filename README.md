@@ -71,7 +71,7 @@ Permite llevar un control digital completo, mejorando la organizaci√≥n y atenci√
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/clinica-dental.git
+git clone https://github.com/isairey/SistemaClinicaDental.git
 cd clinica-dental
 
 # Crear entorno virtual
