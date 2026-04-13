@@ -1,7 +1,7 @@
 # 🦷 Sistema de Clínica Dental
 
 <p align="center">
-  <img src="static/dental_clinic.png" alt="Logo Clínica Dental" width="200">
+ 
 </p>
 
 <p align="center">
